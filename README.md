@@ -1,5 +1,7 @@
-# PMP-2026
+# PMP-2026  
 
+**Student:** Nacu Eduard-Victor  
+**Grupa:** 3E2
 ## Instalare
 
 Trebuie instalată o versiune de Python >3.10. (https://www.python.org/downloads/)
