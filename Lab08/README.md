@@ -1,0 +1,2 @@
+Efectul lui $Y$: Deplasează distribuția spre dreapta (impune $n \ge Y$ și crește media cu $Y$), fără să-i schimbe forma sau incertitudinea (varianța rămâne constantă).  
+Efectul lui $\theta$: Cu cât $\theta$ este mai mare, cu atât scad atât media, cât și incertitudinea (distribuția devine mai îngustă și mai aproape de $Y$, deoarece sunt necesari mai puțini vizitatori care nu cumpără).
